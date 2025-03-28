@@ -1,5 +1,8 @@
 ola
 
+los violinplot estan ordenados de izquierda a derecha por su media
+
+
 
 Para encarar un proyecto de reducción de tiempos de atención a clientes, lo primordial es estructurar un plan integral que abarque desde la comprensión y preprocesamiento de los datos hasta la implementación de modelos predictivos y de optimización. A continuación, se detalla un enfoque en varios pasos:
 
